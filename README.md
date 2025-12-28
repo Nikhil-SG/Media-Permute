@@ -24,7 +24,7 @@ For detailed information about the system's design and security analysis, please
 *   **[Architecture.md](Architecture.md)**: Covers the "Faulty Zipper" concept, Python performance optimizations (NumPy), and the technical challenges with MP4 compression and SVD.
 *   **[Review.md](Review.md)**: A critical security audit discussing the "Color Problem", "Repeating Key" vulnerability, and a comparison with industry standards like AES.
 
-## 🛠️ Usage
+## Usage
 
 ### 1. Prerequisites
 Make sure you have Python installed. Then, install the required libraries:
