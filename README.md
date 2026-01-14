@@ -24,7 +24,7 @@ For detailed information about the system's design and security analysis, please
 *   **[Architecture.md](Architecture.md)**: Covers the "Faulty Zipper" concept, Python performance optimizations (NumPy), and the technical challenges with MP4 compression and SVD.
 *   **[Review.md](Review.md)**: A critical security audit discussing the "Color Problem", "Repeating Key" vulnerability, and a comparison with industry standards like AES.
 
-## Usage
+## 🛠️ Usage
 
 ### 1. Prerequisites
 Make sure you have Python installed. Then, install the required libraries:
@@ -56,3 +56,8 @@ python main.py
 ### 3. Key Management
 *   Keys are automatically saved in the `Keys/` folder.
 *   **Important:** You need the exact key used for encryption to decrypt the file. If you lose the key, the data is lost forever.
+
+## 📄 License & Copyright
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
+Copyright © 2026, Nikhil S G.
